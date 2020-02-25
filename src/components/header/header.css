@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-nav{
+    flex-direction: row;
+}
+.nav-item{
+    margin-left:10px;
+}

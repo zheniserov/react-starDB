@@ -1,0 +1,28 @@
+.personal__list.jumbotron{
+    padding:0;
+}
+.personal__list{
+    margin:50px 0;
+}
+.pd__table{
+    border-radius:5px;
+}
+.personal__details{
+    display: flex;
+    align-items: center;
+
+}
+
+.personal__details__image{
+    width:35%;
+    margin-right: 40px;
+}
+.personal__details__image img{
+    width: 100%;
+}
+.personal__details__info{
+    width:65%;
+}
+.personal__details__info h1{
+    font-size: 30px;
+}
